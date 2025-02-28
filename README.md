@@ -19,7 +19,7 @@ The next phase involves training an audio identification model. In this process,
 Finally, the trained model is saved and configured as a pre-trained model capable of classifying over 500 audio categories, showcasing the robustness and applicability of the developed system.
 
 
-<img src="output.PNG" alt="output" width="700">
+![alt text](image-1.png)
 
 
 
@@ -39,4 +39,4 @@ A etapa seguinte envolve o treinamento de um modelo de identificação de áudio
 
 Por fim, o modelo treinado é salvo e configurado como um modelo pré-treinado, capaz de classificar mais de 500 categorias de áudio, o que evidencia a robustez e a aplicabilidade do sistema desenvolvido.
 
-<img src="output.PNG" alt="output" width="700">
+![alt text](image.png)
